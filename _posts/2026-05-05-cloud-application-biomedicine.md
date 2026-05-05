@@ -15,7 +15,7 @@ For this blog post, I explored Galaxy, a web-based cloud application designed fo
 
 Galaxy is an open-source, web-based platform that allows scientists to analyse biomedical datasets directly through a browser. It is especially useful in genomics and bioinformatics because users can build workflows, run tools, visualise results, and share analyses without needing advanced programming skills.
 
-![Galaxy platform workflow](/images/galaxy.jpeg)
+![Galaxy platform workflow](/images/galaxy.jpg)
 
 *Figure 1: Example of the Galaxy platform interface and workflow.*
 
