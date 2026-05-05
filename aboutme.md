@@ -9,5 +9,5 @@ My name is Albert Garcia, I am from Balaguer and I love learning and improveing 
 ### Education
 
 - Computer science degree at URV (2020 - 2023)
-- Master in Health Data Science (2024 - Pressent)
+- Master in Health Data Science (2024 - Present)
 - IRBLleida (2025 - Present)
