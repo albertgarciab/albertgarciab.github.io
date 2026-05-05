@@ -12,6 +12,7 @@ navbar-links:
   About Me: "aboutme"
   Example Page: "example"
 
+avatar: "/images/albert-garcia.jpeg"
 #####################################
 # --- Footer social media links --- #
 #####################################
